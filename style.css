@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(139, 107, 88);
@@ -6,3 +7,109 @@ h1{
 div{
     text-align: center;
 }
+
+ul{
+    list-style: none;
+}
+
+
+
+.TextoB {
+    position: relative;
+    display: inline-block;
+}
+
+.TextoB img {
+    width: 70%; /* Ajusta o tamanho da imagem ao contêiner */
+    height: auto;
+}
+
+.TextoBlusa {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(14, 13, 13);
+   /* Fundo semitransparente */
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 4.2em;
+}
+
+
+
+.TextoC {
+    position: relative;
+    display: inline-block;
+}
+
+.TextoC img {
+    width: 70%; /* Ajusta o tamanho da imagem ao contêiner */
+    height: auto;
+}
+
+.TextoCalça {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(14, 13, 13);
+ /* Fundo semitransparente */
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 4.2em;
+}
+
+.TextoV {
+    position: relative;
+    display: inline-block;
+}
+
+.TextoV img {
+    width: 70%; /* Ajusta o tamanho da imagem ao contêiner */
+    height: auto;
+}
+
+.TextoVestido {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(236, 231, 231);
+ /* Fundo semitransparente */
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 4.2em;
+}
+
+.TextoS {
+    position: relative;
+    display: inline-block;
+}
+
+.TextoS img {
+    width: 70%; /* Ajusta o tamanho da imagem ao contêiner */
+    height: auto;
+}
+
+.TextoSaia {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(245, 243, 243);
+ /* Fundo semitransparente */
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 4.2em;
+}
+=======
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(139, 107, 88);
+}
+
+div{
+    text-align: center;
+}
+>>>>>>> f140ccdb20ed3fbff86258af2753c060222088a1
