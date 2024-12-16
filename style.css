@@ -1,7 +1,12 @@
-<<<<<<< HEAD
+
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(139, 107, 88);
+    color: rgb(94, 42, 12);
+}
+
+p{
+    font-style: italic;
+    color: rgb(87, 22, 3);
 }
 
 div{
@@ -12,16 +17,15 @@ ul{
     list-style: none;
 }
 
-
-
 .TextoB {
     position: relative;
     display: inline-block;
 }
 
 .TextoB img {
-    width: 70%; /* Ajusta o tamanho da imagem ao contêiner */
-    height: auto;
+    width: 60vw;
+    height: 90vh;
+
 }
 
 .TextoBlusa {
@@ -29,13 +33,11 @@ ul{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(14, 13, 13);
-   /* Fundo semitransparente */
+    color: rgb(0, 0, 0);
     padding: 10px 20px;
     text-align: center;
     font-size: 4.2em;
 }
-
 
 
 .TextoC {
@@ -44,8 +46,8 @@ ul{
 }
 
 .TextoC img {
-    width: 70%; /* Ajusta o tamanho da imagem ao contêiner */
-    height: auto;
+    width: 60vw;
+    height: 90vh;
 }
 
 .TextoCalça {
@@ -54,7 +56,6 @@ ul{
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgb(14, 13, 13);
- /* Fundo semitransparente */
     padding: 10px 20px;
     text-align: center;
     font-size: 4.2em;
@@ -66,8 +67,8 @@ ul{
 }
 
 .TextoV img {
-    width: 70%; /* Ajusta o tamanho da imagem ao contêiner */
-    height: auto;
+    width: 60vw;
+    height: 90vh;
 }
 
 .TextoVestido {
@@ -76,7 +77,6 @@ ul{
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgb(236, 231, 231);
- /* Fundo semitransparente */
     padding: 10px 20px;
     text-align: center;
     font-size: 4.2em;
@@ -88,8 +88,8 @@ ul{
 }
 
 .TextoS img {
-    width: 70%; /* Ajusta o tamanho da imagem ao contêiner */
-    height: auto;
+    width: 60vw;
+    height: 90vh;
 }
 
 .TextoSaia {
@@ -98,12 +98,10 @@ ul{
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgb(245, 243, 243);
- /* Fundo semitransparente */
     padding: 10px 20px;
     text-align: center;
     font-size: 4.2em;
 }
-=======
 h1{
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(139, 107, 88);
@@ -112,4 +110,15 @@ h1{
 div{
     text-align: center;
 }
->>>>>>> f140ccdb20ed3fbff86258af2753c060222088a1
+
+footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: rgb(5, 4, 4);
+}
+
+.botão{
+    color: rgb(12, 11, 11);
+}
+
