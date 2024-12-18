@@ -1,12 +1,15 @@
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(94, 42, 12);
+    color: rgb(83, 35, 5);
+    font-size: 60px;
 }
 
 p{
     font-style: italic;
-    color: rgb(87, 22, 3);
+    color: rgb(58, 29, 6);
+    font-size: 30px;
+    text-align: center;
 }
 
 div{
@@ -15,16 +18,20 @@ div{
 
 ul{
     list-style: none;
+    text-align: center;
 }
 
 .TextoB {
     position: relative;
     display: inline-block;
+    margin-top: 30px;
 }
 
 .TextoB img {
-    width: 60vw;
-    height: 90vh;
+    width: 80vw;
+    height: 50vh;
+    border-radius: 50px;
+    opacity: 0.7;
 
 }
 
@@ -46,8 +53,10 @@ ul{
 }
 
 .TextoC img {
-    width: 60vw;
-    height: 90vh;
+    width: 80vw;
+    height: 50vh;
+    border-radius: 50px;
+    opacity: 0.7;
 }
 
 .TextoCalça {
@@ -67,8 +76,10 @@ ul{
 }
 
 .TextoV img {
-    width: 60vw;
-    height: 90vh;
+    width: 80vw;
+    height: 50vh;
+    border-radius: 50px;
+    opacity: 0.7;
 }
 
 .TextoVestido {
@@ -88,8 +99,10 @@ ul{
 }
 
 .TextoS img {
-    width: 60vw;
-    height: 90vh;
+    width: 80vw;
+    height: 50vh;
+    border-radius: 50px;
+    opacity: 0.7;
 }
 
 .TextoSaia {
@@ -114,11 +127,37 @@ div{
 footer{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
+    font-size: 12px;
     color: rgb(5, 4, 4);
 }
 
-.botão{
-    color: rgb(12, 11, 11);
+
+.botão1{
+    color: rgb(19, 18, 18);
 }
 
+.botão2{
+    color: rgb(19, 18, 18);
+}
+
+.botão3{
+    color: rgb(19, 18, 18);
+}
+
+.botão4{
+    color: rgb(19, 18, 18);
+}
+
+a{
+    color: rgb(48, 23, 3);
+    padding: 10px 2px; 
+    text-align: left;
+}
+
+body{
+    background-color: rgb(248, 229, 214);
+}
+
+.container{
+    text-align: center;
+}
